@@ -1,0 +1,8 @@
+{
+  "id": "clock",
+  "name": "Relogio",
+  "version": "1.0.0",
+  "description": "Hora grande na tela",
+  "main": "main.c",
+  "author": "abs-js"
+}

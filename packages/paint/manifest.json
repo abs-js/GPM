@@ -1,0 +1,8 @@
+{
+  "id": "paint",
+  "name": "Pintura",
+  "version": "1.0.0",
+  "description": "Quadro para pintar com o mouse",
+  "main": "main.c",
+  "author": "abs-js"
+}

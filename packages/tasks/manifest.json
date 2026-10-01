@@ -1,0 +1,8 @@
+{
+  "id": "tasks",
+  "name": "Tarefas",
+  "version": "1.0.0",
+  "description": "Lista de tarefas",
+  "main": "main.c",
+  "author": "abs-js"
+}
